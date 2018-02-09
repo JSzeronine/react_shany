@@ -1,0 +1,51 @@
+
+#about{ opacity: 1; background-color: #fff; }
+
+#about .top{ height: 320px; width: 100%; background-position: center; background-size: cover; background-repeat: no-repeat; padding-top: 80px; background-image: url( ./../image/about/visual_bg.jpg ); }
+#about .top dl{ height: 240px; overflow: hidden; padding-top: 119px; text-align: center; width: 1200px; margin: 0 auto; }
+#about .top dl dt{ margin-bottom: 30px; font-family: 'Noto Sans KR'; font-weight: 400; font-size: 50px; color: #fff; }
+#about .top dl dd{ padding-bottom: 24px; width: 384px; display: inline-block; padding-top: 25px; background-color: #fff; border-top-left-radius: 63px; border-top-right-radius: 63px; font-family: 'Noto Sans KR'; font-weight: 400; font-size: 16px; color: #3c2d1a; }
+
+*{ font-family: "Noto Sans KR"; }
+#about .about{ font-weight: 300; width: 1200px; margin: 0 auto; padding-top: 120px; }
+
+#about .about h2{ font-family: "Roboto"; font-weight: 500; letter-spacing: 7px; margin-bottom: 37px; text-align: center; font-size: 40px; color: #3c2d1a; }
+
+#about .about .list{ margin-bottom: 90px; overflow: hidden; border-bottom: 1px solid #ffe585; }
+#about .about .list .content_left{ padding-top: 50px; border-right: 1px solid #ffe585; float: left; width: 599px; }
+#about .about .list .content_right{ padding-top: 180px; float: left; width: 600px; }
+
+#about .about .list > div ul li{ margin-bottom: 70px; }
+#about .about .list > div ul li .info_date{ margin-bottom: 35px; }
+#about .about .list > div ul li .info_date .date_num{ font-size: 28px; color: #ffcb0c; }
+#about .about .list > div ul li .info_date .date_year{ font-size: 24px; color: #ffcb0c; }
+#about .about .list > div ul li dl dt{ font-weight: 400; line-height: 24px; font-size: 18px; color: #3c2d1a; margin-bottom: 18px; }
+#about .about .list > div ul li dl dd{ font-weight: 300; font-size: 14px; line-height: 20px; color: #a3a3a3; }
+
+#about .about .list .content_left ul li{ text-align: right; }
+#about .about .list .content_left ul li .info_date{ }
+#about .about .list .content_left ul li .info_date > img{ position: relative; top: 10px; }
+#about .about .list .content_left ul li .info_date .date_num{ font-family: "Roboto"; font-weight: 400; }
+#about .about .list .content_left ul li .info_date .date_year{ margin-right: 20px; font-weight: 400; }
+#about .about .list .content_left ul li dl{ padding-right: 59px; }
+ 
+#about .about .list .content_left ul li:last-child{ padding-bottom: 30px; }
+ 
+#about .about .list .content_right ul li{ text-align: left; }
+#about .about .list .content_right ul li .info_date{}
+#about .about .list .content_right ul li .info_date > img{ position: relative; top: 10px; margin-right: 20px; }
+#about .about .list .content_right ul li .info_date .date_num{ font-family: "Roboto"; font-weight: 400;}
+#about .about .list .content_right ul li .info_date .date_year{}
+ 
+#about .about .list .content_right ul li dl{ padding-left: 59px; }
+ 
+#about .contact{ text-align: center; }
+#about .contact h3{ font-weight: 500; font-size: 40px; color: #3c2d1a; margin-bottom: 49px; }
+#about .contact address{ font-weight: 400; font-size: 22px; color: #5c5b5b; margin-bottom: 14px; }
+#about .contact dl{ font-weight: 300; margin-bottom: 29px; display: inline-block; font-size:16px; color: #a3a3a3; overflow: hidden; text-align: center; }
+#about .contact dl dt{ font-weight: 300; margin-right: 5px; font-size:16px; color: #a3a3a3; float: left; }
+#about .contact dl dd{ font-weight: 300; font-size:16px; color: #a3a3a3; float: left; }
+#about .contact dl .division{ margin: 0 5px; }
+ 
+#about .contact .map{ padding-bottom: 160px; border: 1px solid #e5e5e5; border-radius: 33px; overflow: hidden; }
+ 

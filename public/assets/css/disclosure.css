@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+#disclosure{ background-color: #fff; }
+
+#disclosure .top{ height: 320px; width: 100%; background-position: center; background-size: cover; background-repeat: no-repeat; padding-top: 80px; background-image: url( ./../image/disclosure/visual_bg.jpg ); }
+#disclosure .top dl{ height: 240px; overflow: hidden; padding-top: 119px; text-align: center; width: 1200px; margin: 0 auto; }
+#disclosure .top dl dt{ margin-bottom: 30px; font-family: 'Noto Sans KR'; font-weight: 400; font-size: 50px; color: #fff; }
+#disclosure .top dl dd{ padding-bottom: 24px; width: 384px; display: inline-block; padding-top: 25px; background-color: #fff; border-top-left-radius: 63px; border-top-right-radius: 63px; font-family: 'Noto Sans KR'; font-weight: 400; font-size: 16px; color: #3c2d1a; }
+
+#disclosure .notice{ width: 1200px; margin: 0 auto; padding-top: 80px; }
+
+#disclosure .notice .menus{}
+#disclosure .notice .menus ul{ overflow: hidden; }
+#disclosure .notice .menus ul li{ margin-right: 5px; float: left; }
+#disclosure .notice .menus ul li a{ font-family: 'Noto Sans KR'; font-weight: 400; border-top-left-radius: 26px; border-top-right-radius: 26px; text-align: center; border: 1px solid #ffcb0c; width: 160px; display: inline-block; padding: 15px 0px; font-size: 20px; color: #ffcb0c; display: inline-block; }
+#disclosure .notice .menus ul li a{ border-bottom: none; }
+
+#disclosure .notice .menus ul li.on a{ color: #fff; background-color: #ffcb0c; }
+#disclosure .notice .menus ul li a:hover{ color: #fff; background-color: #ffcb0c; }
+
+#disclosure .list{ padding-bottom: 44px; border-top: 5px solid #ffcb0c; }
+#disclosure .list table{}
+#disclosure .list thead tr{ background-color: #fffbec; }
+#disclosure .list thead tr th{ color: #5c5b5b; font-size: 16px; font-family: 'Noto Sans KR'; font-weight: 350; height: 59px; vertical-align: middle; }
+#disclosure .list table thead tr{ border-bottom: 1px solid #ffcb0c; }
+
+#disclosure .list table tbody tr{ border-bottom: 1px solid #e7e7e7; }
+#disclosure .list table tbody tr:last-child{ border-bottom: 1px solid #000; }
+#disclosure .list table tr td{ color: #5c5b5b; font-family: 'Noto Sans KR'; font-weight: 350; text-align: center; height: 59px; vertical-align: middle; font-size: 16px; }
+#disclosure .list table tr td a{ color: #5c5b5b; font-family: 'Noto Sans KR'; font-weight: 350; font-size: 16px; }
+#disclosure .list table tr td.content{ text-align: left; }
+#disclosure .list table tr td.content a{ white-space: nowrap; text-overflow: ellipsis; overflow: hidden; width: 880px; display: block; }
+
+#disclosure .control{ text-align: center; padding-bottom: 160px; }
+#disclosure .control .indicator{ margin-bottom: 44px; overflow: hidden; display: inline-block; }
+#disclosure .control .indicator ul{ overflow: hidden; float: left; }
+#disclosure .control .indicator ul li{ float: left; }
+
+#disclosure .control .indicator .btn_left_box{ margin-right: 25px; }
+#disclosure .control .indicator .btn_left_box li{ margin-right: 5px; }
+#disclosure .control .indicator .btn_left_box li:last-child{ margin-right: 0px; }
+
+#disclosure .control .indicator .btn_list_box{ margin-right: 25px; }
+#disclosure .control .indicator .btn_list_box li{ padding-top : 3px; padding-bottom:6px; border-radius: 100%; text-align: center; margin-right: 1px; }
+#disclosure .control .indicator .btn_list_box li a{ font-size: 16px; color: #5c5b5b; font-family: 'Noto Sans KR'; font-weight: 350; width: 25px; display: inline-block; }
+#disclosure .control .indicator .btn_list_box li:last-child{ margin-right: 0px; }
+
+#disclosure .control .indicator .btn_list_box li.on{ background-color: #ffcb0c; }
+#disclosure .control .indicator .btn_list_box li.on a{ color: #fff; }
+
+#disclosure .control .indicator .btn_right_box li{ margin-right: 5px; }
+#disclosure .control .indicator .btn_right_box li:last-child{ margin-right: 0px; }
+
+#disclosure .search{ text-align: center; }
+#disclosure .search .search_box{ overflow: hidden; display: inline-block; }
+#disclosure .search .search_box input{ margin-right: 5px; float: left; font-size: 16px; font-family: 'Noto Sans KR'; font-weight: 350; padding-left: 25px; padding-right: 25px; padding-top: 6px; padding-bottom: 6px; width: 335px; border: 1px solid #ffcb0c; border-radius: 18px; color: #5c5b5b; }
+#disclosure .search .search_box a{ float: left; border-radius: 18px; display: inline-block; font-size: 16px; text-align: center; width: 80px; font-family: 'Noto Sans KR'; font-weight: 350; padding-top: 11px; padding-bottom: 11px; color: #fff; background-color: #ffcb0c; }

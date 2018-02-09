@@ -1,0 +1,18 @@
+import "core-js/es6/map";
+import "core-js/es6/set";
+import "raf/polyfill";
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+
+import App from './App';
+import { BrowserRouter } from "react-router-dom";
+import registerServiceWorker from './registerServiceWorker';
+
+ReactDOM.render(
+    <BrowserRouter>
+        <App />
+    </BrowserRouter>
+, document.getElementById('wrap'));
+
+registerServiceWorker();

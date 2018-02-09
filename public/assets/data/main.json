@@ -1,0 +1,35 @@
+{
+    "result" : {
+        "innerData" : [
+            { "link" : "/notice", "value" : "assets/data/main.json_innerData-1" },
+            { "link" : "/notice", "value" : "assets/data/main.json_innerData-2" },
+            { "link" : "/notice", "value" : "assets/data/main.json_innerData-3" }
+        ],
+
+        "disclosureData" : {
+            "className" : "disclosure",
+            "title" : "공시정보",
+            "sub" : "SHANY DISCLOSURE",
+            "list" : [
+                { "txt" : "assets/data/main.json - 1", "link" : "/disclosure" },
+                { "txt" : "assets/data/main.json - 2", "link" : "/disclosure" },
+                { "txt" : "assets/data/main.json - 3", "link" : "/disclosure" }
+            ],
+            
+            "more_link" : "/disclosure"
+        },
+
+        "noticeData" : {
+            "className" : "notice",
+            "title" : "공지사항",
+            "sub" : "SHANY NOTICE",
+            "list" : [
+                { "txt" : "assets/data/main.json - 4", "link" : "/notice" },
+                { "txt" : "assets/data/main.json - 5", "link" : "/notice" },
+                { "txt" : "assets/data/main.json - 6", "link" : "/notice" }
+            ],
+
+            "more_link" : "/notice"
+        }
+    }
+}

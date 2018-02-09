@@ -1,0 +1,62 @@
+
+
+
+
+
+
+
+#notice{ background-color: #fff; }
+
+#notice .top{ height: 320px; width: 100%; background-position: center; background-size: cover; background-repeat: no-repeat; padding-top: 80px; background-image: url( ./../image/notice/visual_bg.jpg ); }
+#notice .top dl{ height: 240px; overflow: hidden; padding-top: 119px; text-align: center; width: 1200px; margin: 0 auto; }
+#notice .top dl dt{ margin-bottom: 30px; font-family: 'Noto Sans KR'; font-weight: 500; font-size: 50px; color: #fff; }
+#notice .top dl dd{ padding-bottom: 24px; width: 384px; display: inline-block; padding-top: 25px; background-color: #fff; border-top-left-radius: 63px; border-top-right-radius: 63px; font-family: 'Noto Sans KR'; font-weight: 400; font-size: 16px; color: #3c2d1a; }
+
+#notice .notice { width: 1200px; margin: 0 auto; padding-top: 80px; }
+#notice .notice .menus{}
+#notice .notice .menus ul{ overflow: hidden; }
+#notice .notice .menus ul li{ margin-right: 5px; float: left; }
+#notice .notice .menus ul li a{ font-family: 'Noto Sans KR'; font-weight: 500; border-top-left-radius: 26px; border-top-right-radius: 26px; text-align: center; border: 1px solid #ffcb0c; width: 160px; display: inline-block; padding: 15px 0px; font-size: 20px; color: #ffcb0c; display: inline-block; }
+#notice .notice .menus ul li a{ border-bottom: none; }
+
+#notice .notice .menus ul li.on a{ color: #fff; background-color: #ffcb0c; }
+#notice .notice .menus ul li a:hover{ color: #fff; background-color: #ffcb0c; }
+
+#notice .list{ padding-bottom: 44px; border-top: 5px solid #ffcb0c; }
+#notice .list table{}
+#notice .list thead tr{ background-color: #fffbec; }
+#notice .list thead tr th{ color: #5c5b5b; font-size: 16px; font-family: 'Noto Sans KR'; font-weight: 400; height: 59px; vertical-align: middle; }
+#notice .list table thead tr{ border-bottom: 1px solid #ffcb0c; }
+
+#notice .list table tbody tr{ border-bottom: 1px solid #e7e7e7; }
+#notice .list table tbody tr:last-child{ border-bottom: 1px solid #000; }
+#notice .list table tbody tr.nodata p{padding:81px 0;  font-weight: 300;}
+#notice .list table tr td{ color: #5c5b5b; font-family: 'Noto Sans KR'; font-weight: 350; text-align: center; height: 59px; vertical-align: middle; font-size: 16px; }
+#notice .list table tr td a{ color: #5c5b5b; font-family: 'Noto Sans KR'; font-weight: 350; font-size: 16px; }
+#notice .list table tr td.content{ text-align: left; }
+#notice .list table tr td.content a{ white-space: nowrap; text-overflow: ellipsis; overflow: hidden; width: 880px; line-height: 59px; display: block; }
+
+#notice .control{ text-align: center; padding-bottom: 160px; }
+#notice .control .indicator{ margin-bottom: 44px; overflow: hidden; display: inline-block; }
+#notice .control .indicator ul{ overflow: hidden; float: left; }
+#notice .control .indicator ul li{ float: left; }
+
+#notice .control .indicator .btn_left_box{ margin-right: 25px; }
+#notice .control .indicator .btn_left_box li{ margin-right: 5px; }
+#notice .control .indicator .btn_left_box li:last-child{ margin-right: 0px; }
+
+#notice .control .indicator .btn_list_box{ margin-right: 25px; }
+#notice .control .indicator .btn_list_box li{ padding-top : 3px; padding-bottom:6px; border-radius: 100%; text-align: center; margin-right: 1px; }
+#notice .control .indicator .btn_list_box li a{ font-size: 16px; color: #5c5b5b; font-family: 'Noto Sans KR'; font-weight: 350; width: 25px; display: inline-block; }
+#notice .control .indicator .btn_list_box li:last-child{ margin-right: 0px; }
+
+#notice .control .indicator .btn_list_box li.on{ background-color: #ffcb0c; }
+#notice .control .indicator .btn_list_box li.on a{ color: #fff; }
+
+#notice .control .indicator .btn_right_box li{ margin-right: 5px; }
+#notice .control .indicator .btn_right_box li:last-child{ margin-right: 0px; }
+
+#notice .search{ text-align: center; }
+#notice .search .search_box{ overflow: hidden; display: inline-block; }
+#notice .search .search_box input{ margin-right: 5px; float: left; font-size: 16px; font-family: 'Noto Sans KR'; font-weight: 350; padding-left: 25px; padding-right: 25px; padding-top: 6px; padding-bottom: 6px; width: 335px; border: 1px solid #ffcb0c; border-radius: 18px; color: #5c5b5b; }
+#notice .search .search_box a{ float: left; border-radius: 18px; display: inline-block; font-size: 16px; text-align: center; width: 80px; font-family: 'Noto Sans KR'; font-weight: 350; padding-top: 11px; padding-bottom: 11px; color: #fff; background-color: #ffcb0c; }
